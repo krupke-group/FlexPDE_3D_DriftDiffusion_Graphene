@@ -1,2 +1,2 @@
 # FlexPDE_3D_DriftDiffusion_Graphene
- code referred to in manuscript "Sensing molecules with metal-organic framework functionalized graphene transistors" submitted to Advanced Materials at 30.04.2021
+ code referred to in manuscript "Sensing molecules with metal-organic framework functionalized graphene transistors" published in Advanced Materials 2021 (10.1002/adma.202103316)
